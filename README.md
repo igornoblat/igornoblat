@@ -1,4 +1,4 @@
-## Olá Pessoal, eu sou 👋
+## Olá Pessoal, eu sou o Igor Noblat e Ponto.👋
 
 - 🔭 Sou um programador Delphi desde 2016.
 - 🌱 Atualmente estudando Front-End com HTML - CSS e JS.
