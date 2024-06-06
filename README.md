@@ -13,8 +13,6 @@
   <img align="center" alt="Rafa-Python" width="40" height="40" src="https://img.icons8.com/color/48/delphi-ide.png" alt="delphi-ide"/>
 </div>
   
-  ##
- 
 <div> 
   <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
